@@ -1,2 +1,2 @@
 # sketchthing
-![sketch](/sketchthing/capture.png)
+![sketch](/sketchthing/Capture.PNG)
