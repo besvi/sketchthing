@@ -4,3 +4,4 @@
 ![colourcircles](https://github.com/besvi/colourcircles/blob/master/Capture.PNG)
 ![color](https://github.com/besvi/sketchthing/blob/master/color.PNG)
 ![help](https://github.com/besvi/sketchthing/blob/master/help.PNG)
+![death](https://github.com/besvi/sketchthing/blob/master/death.PNG)
