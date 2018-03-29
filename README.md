@@ -5,5 +5,5 @@
 ![color](https://github.com/besvi/sketchthing/blob/master/color.PNG)
 ![help](https://github.com/besvi/sketchthing/blob/master/help.PNG)
 ![death](https://github.com/besvi/sketchthing/blob/master/death.PNG)
-![dying](https://github.com/besvi/sketchthing/blob/master/dying.PNG)
+![dying](https://github.com/besvi/sketchthing/blob/master/mousedots.PNG)
 ![mousedots](https://github.com/besvi/sketchthing/blob/master/mousedots.PNG)
